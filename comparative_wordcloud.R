@@ -1,4 +1,6 @@
-# This function make_wordcloud
+# This function make_wordcloud creates a mixed wordcloud of two texts
+# using the most common words from each text
+# colored by their distinctiveness for each text (rescaled log-likelihood)
 # author: Johannes Mast
 # date: 03.08.24
 # license: MIT
